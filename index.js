@@ -24,7 +24,7 @@ app.post("/webhook/:token", (req, res) => {
             {
               text: "🚀 Launch The Ark",
               web_app: {
-                url: "https://the-ark-ui-react.aminatourepro.repl.co"
+                url: "https://the-ark-ui.onrender.com"
               }
             }
           ]
